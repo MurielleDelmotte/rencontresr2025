@@ -18,6 +18,6 @@ contributes:
       title-slide-attributes:
         data-background-image: background.png
       code-annotations: hover
-      chalkboard: true
+      chalkboard: false
       execute:
         echo: true

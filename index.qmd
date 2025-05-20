@@ -1,6 +1,8 @@
 ---
 title: "Truffles : une application Shiny pour cultiver ses données… et ses truffes !"
-format: thinkridentity-revealjs
+format: 
+  thinkridentity-revealjs:
+    embed-resources: true
 author: Murielle Delmotte
 date: last-modified
 execute:
